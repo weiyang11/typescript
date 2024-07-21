@@ -69,3 +69,31 @@ enum AccessPermissions {
   All = ReadWrite | Delete // 7
 } //computed enum
 
+
+enum ShapeKind {
+  Circle = 'CIRCLE',
+  Square = 'SQUARE'
+}
+
+
+type Circle ={
+  kind: ShapeKind.Circle;
+  radius: number;
+}
+
+type Square = {
+  kind: ShapeKind.Square;
+  sideLength: number;
+}
+
+// let circle : Circle = {
+//   radius: 100,
+//   kind: "CIRCLE" // Error: Type '"CIRCLE"' is not assignable to type 'ShapeKind.Circle'.
+// };
+
+
+function printShape(shape:ShapeKind){
+  console.log(shape);
+}
+
+printShape(ShapeKind.Square); // CIRCLE
