@@ -10,7 +10,7 @@ number = Infinity * .01;
 
 number = NaN;
 
-number = parseInt('12');
+number = parseInt('12'); // 12
 
 number = parseFloat('12.5');
 
