@@ -1,6 +1,6 @@
-let bigInt1 = BigInt(10); // 10n
+let bigInt1 = BigInt(10); 
 
-let bigInt2 = 12345n; // 12345n
+let bigInt2 = 12345n;
 
 
 const safeInt = Number.MAX_SAFE_INTEGER;
