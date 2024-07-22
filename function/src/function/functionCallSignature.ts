@@ -28,4 +28,4 @@ function convertAgeToMonths1(person1: Person1) :Person1 {
   return person1;
 }
 
-console.log(person1.greet('Hello')); // Hello, John
+console.log(person1.greet('Hello')); // Hello, John // function call signature
