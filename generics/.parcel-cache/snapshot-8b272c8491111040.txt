@@ -1,0 +1,16 @@
+15
+93/home/weiyang/code/weiyang11/typescript-course-resources/generics/src/Generic/basicConcept.ts1721710855123733772 0
+77/home/weiyang/code/weiyang11/typescript-course-resources/generics/src/Generic1721710845013734120 1
+65/home/weiyang/code/weiyang11/typescript-course-resources/generics1721710139103735605 1
+79/home/weiyang/code/weiyang11/typescript-course-resources/generics/tsconfig.json1721710114633723943 0
+75/home/weiyang/code/weiyang11/typescript-course-resources/generics/README.md1721710114633723943 0
+69/home/weiyang/code/weiyang11/typescript-course-resources/generics/src1721710114633723943 1
+70/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist1721710140313736497 1
+78/home/weiyang/code/weiyang11/typescript-course-resources/generics/src/index.ts1721710858793733663 0
+76/home/weiyang/code/weiyang11/typescript-course-resources/generics/index.html1721710114633723943 0
+81/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist/index.html1721710140333736515 0
+78/home/weiyang/code/weiyang11/typescript-course-resources/generics/package.json1721710114633723943 0
+92/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist/index.377278e2.js.map1721710140423736598 0
+95/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist/generics.3464ddca.js.map1721710140423736598 0
+88/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist/index.377278e2.js1721710140413736589 0
+91/home/weiyang/code/weiyang11/typescript-course-resources/generics/dist/generics.3464ddca.js1721710140423736598 0
