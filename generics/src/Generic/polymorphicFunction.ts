@@ -1,11 +1,17 @@
-const filter = (array: any[], predicate:(item: any) => boolean) => {
-  let result: any[] = [];
+type Filter = {
+  (array: number[], predicate: (item: number) => boolean): number[];
+  (array: string[], predicate: (item: string) => boolean): string[];
+  (array: object[], predicate: (item: object) => boolean): object[];
+}
+
+
+const filter = <T>(array: T[], predicate:(item: T) => boolean): T[] => {
+  let result: T[] = [];
   for(let i = 0; i < array.length; i++){
     if(predicate(array[i])){
       result.push(array[i]);
     }
   }
-
   return result;
 }
 
