@@ -1,0 +1,15 @@
+14
+90/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/README.md1722265367591572472 0
+84/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src1722346138061984850 1
+93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/index.ts1722347666511945286 0
+121/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist/classes-and-inheritance.3464ddca.js1722347012171951618 0
+94/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/tsconfig.json1722265367591572472 0
+93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/package.json1722265367591572472 0
+80/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance1722346991971952521 1
+93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/classess1722346138061984850 1
+85/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist1722347012161951617 1
+91/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/index.html1722265367591572472 0
+96/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist/index.html1722347012161951617 0
+103/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist/index.377278e2.js1722347012171951618 0
+125/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist/classes-and-inheritance.3464ddca.js.map1722347012181951616 0
+107/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/dist/index.377278e2.js.map1722347012171951618 0
