@@ -22,3 +22,13 @@ console.log(person3.getName()); // John
 
 // public access modifier allows us to access the property from outside the class.
 // private access modifier restricts the access of the property from outside the class.
+
+class Admin extends Person1 {
+  public returnName (){
+    return this.name; // Error: 'name' is private
+  }
+}
+
+const admin1: Admin = new Admin('Mark', 30);
+
+
