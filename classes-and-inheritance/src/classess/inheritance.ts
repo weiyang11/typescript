@@ -16,13 +16,13 @@ class AdminUser extends User {
 
   constructor(name: string, email: string, age: number, usersReporting: number) {
     super(name, email, age);
-    this.usersReporting = 0;
+    this.usersReporting = usersReporting
   }
 }
 
-const user :User = new User('John', 'john@gamil.com', 30);
+const user: User = new User('John', 'john@gamil.com', 30);
 
-const admin :AdminUser = new AdminUser('Mark', 'mark@gamil.com', 30, 0);
+const admin: AdminUser = new AdminUser('Mark', 'mark@gamil.com', 30, 0);
 
 console.log(user);
 console.log(admin);
