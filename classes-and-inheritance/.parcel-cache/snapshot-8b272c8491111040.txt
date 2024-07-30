@@ -1,5 +1,6 @@
-5908
-102/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/classess/class.ts1722348009941938977 0
+5910
+108/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/classess/inheritance.ts1722348886441914916 0
+102/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/classess/class.ts1722348016391938731 0
 93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/package.json1722265367591572472 0
 94/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/tsconfig.json1722265367591572472 0
 98/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/package-lock.json1722347864571949158 0
@@ -2172,6 +2173,7 @@
 122/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/timsort/build/timsort.min.js1722347861311947986 0
 118/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/safe-buffer/package.json1722347861191947943 0
 124/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/detect-libc/bin/detect-libc.js1722347861291947977 0
+111/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/classess/accessModifier.ts1722351414021849710 0
 125/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/caniuse-lite/data/regions/AG.js1722347861421948024 0
 162/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json1722347862141948285 0
 118/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/@lezer/lr/dist/index.cjs1722347861281947974 0
@@ -2311,7 +2313,7 @@
 137/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/caniuse-lite/data/features/html5semantic.js1722347862201948306 0
 128/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/@parcel/runtime-service-worker/lib1722347861181947939 1
 119/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/dotenv-expand/lib/main.js1722347861271947971 0
-93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/index.ts1722348014331938799 0
+93/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/src/index.ts1722352099191831028 0
 148/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/@parcel/core/test/fixtures/targets-default-distdir-two1722347862141948285 1
 102/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/boolbase1722347861181947939 1
 155/home/weiyang/code/weiyang11/typescript-course-resources/classes-and-inheritance/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo-node.js1722347861751948144 0
