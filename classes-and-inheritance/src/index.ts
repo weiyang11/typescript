@@ -17,7 +17,21 @@ class Person2 {
     }
     this._age = age;
   }
+
+  public get age(){
+    if(this._age == undefined){
+      throw new Error('The age is not set yet');
+    }
+    return this._age;
+  }
 }
 
 const person4: Person2 = new Person2('John');
-const person5: Person2 = new Person2('Maek');
+
+person4.age = 30; // set the age
+
+console.log(person4); // Person2 { name: 'John', _age: 30 }
+
+const mark: Person2 = new Person2('Mark');
+
+console.log(mark.age); // Error: The age is not set yet
