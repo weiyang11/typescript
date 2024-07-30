@@ -14,7 +14,7 @@ class Person {
   }
 
   greet() {
-    return`Hello John`;
+    return`Hello ${this.name}`;
   }
 }
 
@@ -22,7 +22,7 @@ const person = new Person( "Jon",  "ddwqd@ff.com");
 
 console.log(person);
 
-console.log(person.greet()); // Hello John
+console.log(person.greet()); // Hello Jon
 
 const person2 = new Person("John", "fe@fe.fe");
 
