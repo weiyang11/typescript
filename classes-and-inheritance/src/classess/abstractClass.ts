@@ -37,6 +37,20 @@ class ItDepartment extends Department {
     super('IT');
   }
   protected holidays: Holidays = [];
+
+  public printHolidays(){
+    if(this.holidays.length = 0) {
+      return console.log('No Holidays');
+    }
+    console.log(`Here is the list of holidays ${this.name}` );
+    this.holidays.forEach((holiday:{date:Date, reason:string}, index:number) => {
+      console.log(`${index + 1}. Date: ${holiday.date} Reason: ${holiday.reason}`);
+    }
+    )
+
+  }
+
+
 }
 
 
@@ -45,6 +59,19 @@ class AdminDepartment extends Department {
   constructor() {
     super('Admin');
   }
+
+  public printHolidays(){
+    if(this.holidays.length = 0) {
+      return console.log('No Holidays');
+    }
+    console.log(`Here is the list of holidays ${this.name}` );
+    this.holidays.forEach((holiday:{date:Date, reason:string}, index:number) => {
+      console.log(`${index + 1}. Date: ${holiday.date} Reason: ${holiday.reason}`);
+    }
+    )
+
+  }
+
 }
 
 const itHolidays = [
