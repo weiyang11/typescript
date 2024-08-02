@@ -6,6 +6,7 @@ type Holidays = {
 
 abstract class Department {
   protected abstract holidays: Holidays;
+
   protected constructor(protected name: string) {
   }
 
@@ -17,17 +18,7 @@ abstract class Department {
     }
   }
 
-  public printHolidays(){
-    if(this.holidays.length = 0) {
-      return console.log('No Holidays');
-    }
-    console.log("Here is the list of holidays");
-    this.holidays.forEach((holiday:{date:Date, reason:string}, index:number) => {
-      console.log(`${index + 1}. Date: ${holiday.date} Reason: ${holiday.reason}`);
-    }
-    )
-
-  }
+  public abstract printHolidays():void;
 }
 
 // const department = new Department('Accounting'); // Error: Cannot create an instance of an abstract class.
@@ -49,8 +40,6 @@ class ItDepartment extends Department {
     )
 
   }
-
-
 }
 
 
@@ -69,9 +58,7 @@ class AdminDepartment extends Department {
       console.log(`${index + 1}. Date: ${holiday.date} Reason: ${holiday.reason}`);
     }
     )
-
   }
-
 }
 
 const itHolidays = [
